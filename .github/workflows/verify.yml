@@ -187,7 +187,9 @@ jobs:
             packages/player/dist
             packages/vite-plugin/lib
       - run: npm run e2e:test
-      - uses: actions/upload-artifact@v3
+        env:
+          HOME: /root
+      - uses: actions/upload-artifact@v4
         if: failure()
         with:
           name: image-diffs
