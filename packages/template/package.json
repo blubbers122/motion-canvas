@@ -1,5 +1,5 @@
 {
-  "name": "@motion-canvas/template",
+  "name": "@blotion-canvas/template",
   "private": true,
   "version": "0.0.0",
   "description": "Basic project template for Motion Canvas",
@@ -11,11 +11,11 @@
     "build": "tsc && vite build"
   },
   "dependencies": {
-    "@motion-canvas/core": "*",
-    "@motion-canvas/2d": "*"
+    "@blotion-canvas/core": "*",
+    "@blotion-canvas/2d": "*"
   },
   "devDependencies": {
-    "@motion-canvas/ui": "*",
-    "@motion-canvas/vite-plugin": "*"
+    "@blotion-canvas/ui": "*",
+    "@blotion-canvas/vite-plugin": "*"
   }
 }
