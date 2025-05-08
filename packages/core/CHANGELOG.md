@@ -3,6 +3,54 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.19.0](https://github.com/blubbers122/motion-canvas/compare/v3.16.0...v3.19.0) (2025-05-08)
+
+
+### Bug Fixes
+
+* **2d:** support tweening emojis ([#1085](https://github.com/blubbers122/motion-canvas/issues/1085)) ([03d41b1](https://github.com/blubbers122/motion-canvas/commit/03d41b1ed9de8c2f40126a21d277033ac5408b00)), closes [#1066](https://github.com/blubbers122/motion-canvas/issues/1066)
+* **core:** always show both scenes when seeking mid-transition ([#1128](https://github.com/blubbers122/motion-canvas/issues/1128)) ([dfb4f9b](https://github.com/blubbers122/motion-canvas/commit/dfb4f9b4291430a797526e4a8e9545ee49ce963f))
+* **core:** fix AudioManager.isInRange logic ([#1156](https://github.com/blubbers122/motion-canvas/issues/1156)) ([8e76124](https://github.com/blubbers122/motion-canvas/commit/8e761249c19dce4d3b16b47505645dfe09c30a05))
+* **core:** fix incorrect rollup ordering ([2ae47a6](https://github.com/blubbers122/motion-canvas/commit/2ae47a63e9b74e2726b5485951d03ccc0ceb8541))
+* **core:** force valid chroma-js version ([#1086](https://github.com/blubbers122/motion-canvas/issues/1086)) ([3a23b57](https://github.com/blubbers122/motion-canvas/commit/3a23b57b5a56e691c13c1ba7ea5744414f1d20dc))
+* explicitly type Vector2.toArray() to return a tuple ([#1107](https://github.com/blubbers122/motion-canvas/issues/1107)) ([c3c85d5](https://github.com/blubbers122/motion-canvas/commit/c3c85d5a6c9cabcd372f07cf0860a95197487833))
+* fix audio offset field ([#1160](https://github.com/blubbers122/motion-canvas/issues/1160)) ([28982f5](https://github.com/blubbers122/motion-canvas/commit/28982f545f67557ee801e1b39c91703e3baf5a21))
+
+
+### Features
+
+* **core:** add BBox.translate ([#1164](https://github.com/blubbers122/motion-canvas/issues/1164)) ([aa54e99](https://github.com/blubbers122/motion-canvas/commit/aa54e99e424ec9c31348027d7fd5d4a0fc656f99))
+* programmable sounds ([#1082](https://github.com/blubbers122/motion-canvas/issues/1082)) ([0dfd40d](https://github.com/blubbers122/motion-canvas/commit/0dfd40dfb939b6a7b8ed9c9c20f02cdda2ca1cc8))
+* sound waveforms ([#1158](https://github.com/blubbers122/motion-canvas/issues/1158)) ([f26fb28](https://github.com/blubbers122/motion-canvas/commit/f26fb280becb79601f8ae195cc6287a05e3ed1de))
+
+
+
+
+
+# [3.18.0](https://github.com/blubbers122/motion-canvas/compare/v3.16.0...v3.18.0) (2025-05-08)
+
+
+### Bug Fixes
+
+* **2d:** support tweening emojis ([#1085](https://github.com/blubbers122/motion-canvas/issues/1085)) ([03d41b1](https://github.com/blubbers122/motion-canvas/commit/03d41b1ed9de8c2f40126a21d277033ac5408b00)), closes [#1066](https://github.com/blubbers122/motion-canvas/issues/1066)
+* **core:** always show both scenes when seeking mid-transition ([#1128](https://github.com/blubbers122/motion-canvas/issues/1128)) ([dfb4f9b](https://github.com/blubbers122/motion-canvas/commit/dfb4f9b4291430a797526e4a8e9545ee49ce963f))
+* **core:** fix AudioManager.isInRange logic ([#1156](https://github.com/blubbers122/motion-canvas/issues/1156)) ([8e76124](https://github.com/blubbers122/motion-canvas/commit/8e761249c19dce4d3b16b47505645dfe09c30a05))
+* **core:** fix incorrect rollup ordering ([2ae47a6](https://github.com/blubbers122/motion-canvas/commit/2ae47a63e9b74e2726b5485951d03ccc0ceb8541))
+* **core:** force valid chroma-js version ([#1086](https://github.com/blubbers122/motion-canvas/issues/1086)) ([3a23b57](https://github.com/blubbers122/motion-canvas/commit/3a23b57b5a56e691c13c1ba7ea5744414f1d20dc))
+* explicitly type Vector2.toArray() to return a tuple ([#1107](https://github.com/blubbers122/motion-canvas/issues/1107)) ([c3c85d5](https://github.com/blubbers122/motion-canvas/commit/c3c85d5a6c9cabcd372f07cf0860a95197487833))
+* fix audio offset field ([#1160](https://github.com/blubbers122/motion-canvas/issues/1160)) ([28982f5](https://github.com/blubbers122/motion-canvas/commit/28982f545f67557ee801e1b39c91703e3baf5a21))
+
+
+### Features
+
+* **core:** add BBox.translate ([#1164](https://github.com/blubbers122/motion-canvas/issues/1164)) ([aa54e99](https://github.com/blubbers122/motion-canvas/commit/aa54e99e424ec9c31348027d7fd5d4a0fc656f99))
+* programmable sounds ([#1082](https://github.com/blubbers122/motion-canvas/issues/1082)) ([0dfd40d](https://github.com/blubbers122/motion-canvas/commit/0dfd40dfb939b6a7b8ed9c9c20f02cdda2ca1cc8))
+* sound waveforms ([#1158](https://github.com/blubbers122/motion-canvas/issues/1158)) ([f26fb28](https://github.com/blubbers122/motion-canvas/commit/f26fb280becb79601f8ae195cc6287a05e3ed1de))
+
+
+
+
+
 ## [3.17.2](https://github.com/motion-canvas/motion-canvas/compare/v3.17.1...v3.17.2) (2024-12-14)
 
 

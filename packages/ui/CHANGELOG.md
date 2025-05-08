@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.19.0](https://github.com/motion-canvas/motion-canvas/compare/v3.16.0...v3.19.0) (2025-05-08)
+
+
+### Bug Fixes
+
+* fix audio offset field ([#1160](https://github.com/motion-canvas/motion-canvas/issues/1160)) ([28982f5](https://github.com/motion-canvas/motion-canvas/commit/28982f545f67557ee801e1b39c91703e3baf5a21))
+* **ui:** handle multiple shortcut registrations ([#1165](https://github.com/motion-canvas/motion-canvas/issues/1165)) ([48468c1](https://github.com/motion-canvas/motion-canvas/commit/48468c1cb762baa4a15545edcd8490c525f4eefd))
+
+
+### Features
+
+* keyboard navigation for scene graph ([#1101](https://github.com/motion-canvas/motion-canvas/issues/1101)) ([cbcf0a6](https://github.com/motion-canvas/motion-canvas/commit/cbcf0a68090ce180d456cd66d6785b59ceabc62a))
+* sound waveforms ([#1158](https://github.com/motion-canvas/motion-canvas/issues/1158)) ([f26fb28](https://github.com/motion-canvas/motion-canvas/commit/f26fb280becb79601f8ae195cc6287a05e3ed1de))
+* **ui:** add modal actions ([#1100](https://github.com/motion-canvas/motion-canvas/issues/1100)) ([7d0a971](https://github.com/motion-canvas/motion-canvas/commit/7d0a97114ab09ab74559c06d071ae474fb19e06e))
+* **ui:** add render and present url params ([#631](https://github.com/motion-canvas/motion-canvas/issues/631)) ([8209843](https://github.com/motion-canvas/motion-canvas/commit/82098435b4f74601e7991da3ac48015b4dbe58ee))
+* **ui:** bring back audio offset editing ([#1166](https://github.com/motion-canvas/motion-canvas/issues/1166)) ([06a2839](https://github.com/motion-canvas/motion-canvas/commit/06a283926d94f099014fdde7d118bebc2270798f))
+
+
+
+
+
 ## [3.17.2](https://github.com/motion-canvas/motion-canvas/compare/v3.17.1...v3.17.2) (2024-12-14)
 
 

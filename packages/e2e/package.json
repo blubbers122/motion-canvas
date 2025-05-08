@@ -1,21 +1,21 @@
 {
   "name": "@blubbers122/motion-canvas-e2e",
   "private": true,
-  "version": "0.0.0",
+  "version": "3.19.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "test": "vitest"
   },
   "dependencies": {
-    "@blubbers122/motion-canvas-2d": "*",
-    "@blubbers122/motion-canvas-core": "*",
+    "@blubbers122/motion-canvas-2d": "^3.19.0",
+    "@blubbers122/motion-canvas-core": "^3.19.0",
     "jest-image-snapshot": "^6.2.0",
     "puppeteer": "^22.9.0",
     "vitest": "^0.34.6"
   },
   "devDependencies": {
-    "@blubbers122/motion-canvas-ui": "*",
-    "@blubbers122/motion-canvas-vite-plugin": "*"
+    "@blubbers122/motion-canvas-ui": "^3.19.0",
+    "@blubbers122/motion-canvas-vite-plugin": "^3.19.0"
   }
 }

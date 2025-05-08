@@ -1,6 +1,7 @@
 {
   "name": "@blubbers122/motion-canvas-renderer",
-  "version": "3.17.2",
+  "version": "3.19.0",
+  "private": true,
   "type": "module",
   "main": "lib/index.js",
   "bin": {
@@ -11,18 +12,18 @@
     "dev": "tsc -w"
   },
   "dependencies": {
-    "@blubbers122/motion-canvas-vite-plugin": "^3.17.2",
+    "@blubbers122/motion-canvas-vite-plugin": "^3.19.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@ffprobe-installer/ffprobe": "^2.0.0",
-    "fluent-ffmpeg": "^2.1.2",
     "cli-progress": "^3.12.0",
     "commander": "^12.0.0",
+    "fluent-ffmpeg": "^2.1.2",
     "kleur": "^4.1.5",
     "ora": "^8.0.1",
     "puppeteer": "^22.9.0"
   },
   "devDependencies": {
-    "@blubbers122/motion-canvas-core": "^3.17.2",
+    "@blubbers122/motion-canvas-core": "^3.19.0",
     "@types/cli-progress": "^3.11.5",
     "@types/fluent-ffmpeg": "^2.1.21"
   }

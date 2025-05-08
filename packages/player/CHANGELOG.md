@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.19.0](https://github.com/motion-canvas/motion-canvas/compare/v3.16.0...v3.19.0) (2025-05-08)
+
+**Note:** Version bump only for package @blubbers122/motion-canvas-player
+
+
+
+
+
+# [3.18.0](https://github.com/motion-canvas/motion-canvas/compare/v3.16.0...v3.18.0) (2025-05-08)
+
+**Note:** Version bump only for package @blubbers122/motion-canvas-player
+
+
+
+
+
 ## [3.17.2](https://github.com/motion-canvas/motion-canvas/compare/v3.17.1...v3.17.2) (2024-12-14)
 
 **Note:** Version bump only for package @motion-canvas/player
