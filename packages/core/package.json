@@ -1,5 +1,6 @@
 {
-  "name": "@motion-canvas/core",
+  "name": "@blotion-canvas/core",
+  "private": true,
   "version": "3.17.2",
   "description": "Web-based tool for creating animations programmatically",
   "main": "lib/index.js",
@@ -29,7 +30,7 @@
     "chroma-js": "2.4.2"
   },
   "devDependencies": {
-    "@motion-canvas/internal": "0.0.0",
+    "@blubbers/internal": "0.0.0",
     "jsdom": "^22.1.0",
     "vitest": "^0.34.6"
   }

@@ -1,9 +1,9 @@
 {
-  "name": "motion-canvas",
-  "private": true,
+  "name": "@blotion-canvas/motion-canvas",
   "workspaces": [
     "packages/*"
   ],
+	"version": "3.17.2",
   "scripts": {
     "prepare": "husky install",
     "core:dev": "npm run dev -w packages/core",
