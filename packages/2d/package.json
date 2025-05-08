@@ -1,10 +1,10 @@
 {
-  "name": "@motion-canvas/2d",
+  "name": "@blubbers122/motion-canvas-2d",
   "version": "3.17.2",
   "description": "A 2D renderer for Motion Canvas",
-  "author": "motion-canvas",
+  "author": "blubbers122",
   "homepage": "https://motioncanvas.io/",
-  "bugs": "https://github.com/motion-canvas/motion-canvas/issues",
+  "bugs": "https://github.com/blubbers122/motion-canvas/issues",
   "license": "MIT",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
@@ -19,7 +19,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/motion-canvas/motion-canvas.git"
+    "url": "git+https://github.com/blubbers122/motion-canvas.git"
   },
   "files": [
     "lib",
@@ -28,8 +28,8 @@
     "tsconfig.project.json"
   ],
   "devDependencies": {
-    "@motion-canvas/internal": "0.0.0",
-    "@motion-canvas/ui": "^3.17.2",
+    "@blubbers122/motion-canvas-internal": "0.0.0",
+    "@blubbers122/motion-canvas-ui": "^3.17.2",
     "@preact/signals": "^1.2.1",
     "clsx": "^2.0.0",
     "jsdom": "^22.1.0",
@@ -40,7 +40,7 @@
     "@codemirror/language": "^6.10.1",
     "@lezer/common": "^1.2.1",
     "@lezer/highlight": "^1.2.0",
-    "@motion-canvas/core": "^3.17.2",
+    "@blubbers122/motion-canvas-core": "^3.17.2",
     "code-fns": "^0.8.2",
     "escape-string-regexp": "^5.0.0",
     "mathjax-full": "^3.2.2",

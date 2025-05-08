@@ -1,6 +1,6 @@
 {
-  "name": "motion-canvas",
-  "private": true,
+  "name": "@blubbers122/motion-canvas",
+  "version": "3.17.2",
   "workspaces": [
     "packages/*"
   ],

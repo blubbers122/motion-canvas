@@ -1,11 +1,11 @@
 {
-  "name": "@motion-canvas/core",
+  "name": "@blubbers122/motion-canvas-core",
   "version": "3.17.2",
   "description": "Web-based tool for creating animations programmatically",
   "main": "lib/index.js",
-  "author": "motion-canvas",
+  "author": "blubbers122",
   "homepage": "https://motioncanvas.io/",
-  "bugs": "https://github.com/motion-canvas/motion-canvas/issues",
+  "bugs": "https://github.com/blubbers122/motion-canvas/issues",
   "license": "MIT",
   "scripts": {
     "dev": "tspc -p tsconfig.build.json -w",
@@ -16,7 +16,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/motion-canvas/motion-canvas.git"
+    "url": "https://github.com/blubbers122/motion-canvas.git"
   },
   "files": [
     "lib",
@@ -29,7 +29,7 @@
     "chroma-js": "2.4.2"
   },
   "devDependencies": {
-    "@motion-canvas/internal": "0.0.0",
+    "@blubbers122/motion-canvas-internal": "0.0.0",
     "jsdom": "^22.1.0",
     "vitest": "^0.34.6"
   }

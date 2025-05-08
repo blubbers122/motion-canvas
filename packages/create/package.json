@@ -1,5 +1,5 @@
 {
-  "name": "@motion-canvas/create",
+  "name": "@blubbers122/motion-canvas-create",
   "version": "3.17.2",
   "description": "Quickly scaffold Motion Canvas projects",
   "main": "index.js",
@@ -17,13 +17,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/motion-canvas/motion-canvas.git"
+    "url": "https://github.com/blubbers122/motion-canvas.git"
   },
   "devDependencies": {
-    "@motion-canvas/2d": "^3.17.2",
-    "@motion-canvas/core": "^3.17.2",
-    "@motion-canvas/ui": "^3.17.2",
-    "@motion-canvas/vite-plugin": "^3.17.2"
+    "@blubbers122/motion-canvas-2d": "^3.17.2",
+    "@blubbers122/motion-canvas-core": "^3.17.2",
+    "@blubbers122/motion-canvas-ui": "^3.17.2",
+    "@blubbers122/motion-canvas-vite-plugin": "^3.17.2"
   },
   "dependencies": {
     "minimist": "^1.2.8",
