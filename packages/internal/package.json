@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "@blubbers122/motion-canvas-internal",
-=======
-  "name": "@blotion-canvas/internal",
->>>>>>> 9d73b93d074aac98af30627148aa42ee82a17183
   "private": true,
   "version": "0.0.0",
   "devDependencies": {
