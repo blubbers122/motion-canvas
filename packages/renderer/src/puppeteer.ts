@@ -313,7 +313,7 @@ export async function render(
     try {
       await page.goto(url.toString(), {
         waitUntil: 'networkidle0',
-        timeout: 60000,
+        timeout: 60000 * 60,
       });
       console.log('Page loaded successfully');
     } catch (error) {
